@@ -3,7 +3,7 @@
 - 📃 I write <code>&lt;code/&gt;</code>.
 - 🔭 I tend to solve problems fast, if given a goal.
 - 🌱 I always try to better myself.
-- 📖 I love reading fictional books.
+- 📖 I love reading fictions.
 
 ### Connect with me:
 
