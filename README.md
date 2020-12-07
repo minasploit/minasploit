@@ -1,7 +1,8 @@
 ## Hi there, I'm Minasie Shibeshi - [minasploit][website] 👋
 
 - 📃 I write <code>&lt;code/&gt;</code>.
-- 🔭 I tend to solve problems fast, if given a goal.
+- 🔭 I solve problems fast.
+- 🥅 I am goal-oriented.
 - 🌱 I always try to better myself.
 - 📖 I love reading fictions.
 
