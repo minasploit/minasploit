@@ -12,6 +12,7 @@
 [<img align="left" alt="minasploit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="minasploit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="minasploit | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="minasploit | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="minasploit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
@@ -40,5 +41,6 @@
 [website]: https://minasploit.github.io/
 [twitter]: https://twitter.com/minasploit
 [stackoverflow]: https://stackoverflow.com/minasploit
+[github]: https://github.com/minasploit
 [instagram]: https://instagram.com/minasploit
 [linkedin]: https://linkedin.com/in/minasie-shibeshi
