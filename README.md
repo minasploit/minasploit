@@ -6,7 +6,7 @@
 - 🌱 I always try to better myself.
 - 📖 I love reading fictions.
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="minasploit.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="minasploit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -17,7 +17,7 @@
 
 <br/>
 
-### Tools:
+### Tools
 
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-569577.png" />
 <img align="left" alt="Jetbrains Rider" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png" />
@@ -26,7 +26,7 @@
 
 <br/>
 
-### Languages and Frameworks:
+### Languages and Frameworks
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />
 <img align="left" alt="Angular" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" />
