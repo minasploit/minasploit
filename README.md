@@ -1,4 +1,4 @@
-## Hi there, I'm Minasie Shibeshi - [minasploit][website] 👋
+## Hi there, I'm Minasie Shibeshi - [minasploit][email] 👋
 
 - 📃 I write <code>&lt;code/&gt;</code>.
 - 🔭 I solve problems fast.
@@ -8,7 +8,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="minasploit.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="minasploit.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="minasploit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="minasploit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="minasploit | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
@@ -38,7 +38,7 @@
 <br />
 <br />
 
-[website]: mailto:minasploit@gmail.com
+[email]: mailto:minasploit@gmail.com
 [twitter]: https://twitter.com/minasploit
 [stackoverflow]: https://stackoverflow.com/minasploit
 [github]: https://github.com/minasploit
