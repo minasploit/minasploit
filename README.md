@@ -38,7 +38,7 @@
 <br />
 <br />
 
-[website]: https://minasploit.github.io/
+[website]: mailto:minasploit@gmail.com
 [twitter]: https://twitter.com/minasploit
 [stackoverflow]: https://stackoverflow.com/minasploit
 [github]: https://github.com/minasploit
