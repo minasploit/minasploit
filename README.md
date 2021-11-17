@@ -20,22 +20,23 @@
 
 ### Tools
 
-<img align="left" alt="Visual Studio" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-569577.png" />
-<img align="left" alt="Intellij Idea" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png" />
-<img align="left" alt="Jetbrains Rider" width="21px" height="21px" src="images/rider-png.png" />
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/24/000000/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/24/000000/github.png" />
+[<img align="left" alt="Visual Studio" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-569577.png" />](#)
+[<img align="left" alt="Intellij Idea" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png" />](#)
+[<img align="left" alt="Jetbrains Rider" width="21px" height="21px" src="images/rider-png.png" />](#)
+[<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/24/000000/git.png" />](#)
+[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/24/000000/github.png" />](#)
 
 <br/>
 
 ### Languages and Frameworks
 
-<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />
-<img align="left" alt="Angular" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+[<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />](#)
+[<img align="left" alt="Angular" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" />](#)
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](#)
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />](#)![nodejs](https://user-images.githubusercontent.com/19342684/142196594-1de94981-c93a-41a0-8d34-f5c0f7c73e33.png)
+
+[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />](#)
+[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />](#)
 
 <br />
 <br />
