@@ -7,6 +7,8 @@
 
 [![](https://img.shields.io/badge/Years%20coding-~%209-blueviolet)][linkedin]
 
+---
+
 ### Connect with me
 
 [<img align="left" alt="minasploit | Email" width="22px" src="https://img.icons8.com/color/50/000000/gmail-new.png" />][email]
@@ -48,3 +50,5 @@
 [linkedin]: https://linkedin.com/in/minasie-shibeshi
 
 <hr/>
+
+💙 from Ethiopia 🇪🇹
