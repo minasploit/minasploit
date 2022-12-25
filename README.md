@@ -5,7 +5,7 @@
 - 🥅 I am goal-oriented.
 - 📖 I love reading fantasy fictions.
 
-[![](https://img.shields.io/badge/Years%20coding-~%210-blueviolet)][linkedin]
+[![](https://img.shields.io/badge/Years%2010coding-~%210-blueviolet)][linkedin]
 
 ---
 
