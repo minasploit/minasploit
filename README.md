@@ -3,7 +3,7 @@
 - 📃 I write <code>&lt;code/&gt;</code>.
 - 🔭 I solve problems fast.
 - 🥅 I am goal-oriented.
-- 📖 I love reading fantasy fictions.
+- 📖 I love fantasy fictions.
 
 [![](https://img.shields.io/badge/Years%20coding-~%2010-blueviolet)][linkedin]
 
