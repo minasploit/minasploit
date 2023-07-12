@@ -32,6 +32,7 @@
 
 ### Languages and Frameworks
 
+[<img align="left" alt="Svelte" width="26px" src="https://cdn3.iconfinder.com/data/icons/teenyicons-solid-vol-3/15/svelte-256.png" />](#)
 [<img align="left" alt="Next.js" width="26px" src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nextjs-512.png" />](#)
 [<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />](#)
 [<img align="left" alt="React" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/react-512.png" />](#)
