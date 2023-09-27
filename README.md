@@ -1,4 +1,4 @@
-### Hi there, I'm Minasie Shibeshi 👋
+### Hi there, I'm [Minasie Shibeshi](https://www.minasie.com) 👋
 
 - 📃 I write <code>&lt;code/&gt;</code>.
 - 🔭 I solve problems fast.
@@ -53,5 +53,4 @@
 
 <hr/>
 
-minasie.com
 💙 from Ethiopia 🇪🇹
