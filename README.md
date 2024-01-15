@@ -1,4 +1,4 @@
-### Hi there, I'm [Minasie Shibeshi](https://minasie.com?utm_source=github&utm_medium=banner) 👋
+### Hi there, I'm [Minasie Shibeshi](https://minasie.com?s=gh&m=bnr) 👋
 
 - 📃 I write <code>&lt;code/&gt;</code>.
 - 🔭 I solve problems fast.
