@@ -44,12 +44,12 @@
 <br />
 <br />
 
-[email]: mailto:minasploit@gmail.com
-[twitter]: https://twitter.com/minasploit
-[stackoverflow]: https://stackoverflow.com/minasploit
-[github]: https://github.com/minasploit
-[instagram]: https://instagram.com/minasploit
-[linkedin]: https://linkedin.com/in/minasie-shibeshi
+[email]: mailto:contact@minasie.com
+[twitter]: https://minasie.com/twitter
+[stackoverflow]: https://minasie.com/stackoverflow
+[github]: https://minasie.com/github
+[instagram]: https://minasie.com/instagram
+[linkedin]: https://minasie.com/linkedin
 
 <hr/>
 
